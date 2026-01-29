@@ -1,48 +1,47 @@
 Computer Vision Image Transformations using OpenCV
- Overview
+
+Overview:
 
 This project demonstrates fundamental image transformation techniques used in Computer Vision and Image Processing.
 Using Python and OpenCV, the project implements and visualizes the following transformations:
 
-Translation
+✓Translation
 
-Rotation
+✓Rotation
 
-Scaling
+✓Scaling
 
-Shearing
+✓Shearing
 
-Affine Transformation
+✓Affine Transformation
 
-Perspective Transformation
+✓Perspective Transformation
 
 These transformations are essential for tasks such as image alignment, object detection preprocessing, camera calibration, and 3D vision.
 
-Objectives
+Objectives:
 
-To understand geometric transformations in computer vision
+✓To understand geometric transformations in computer vision
 
-To implement image transformations using OpenCV
+✓To implement image transformations using OpenCV
 
-To visualize the effect of each transformation on an image
+✓To visualize the effect of each transformation on an image
 
-To build a beginner-friendly reference project for learning OpenCV
+✓To build a beginner-friendly reference project for learning OpenCV
 
-To create a reusable codebase suitable for academic and practical applications
+✓To create a reusable codebase suitable for academic and practical applications
 
-Technological Use
+Technological Use:
 
-Programming Language: Python
+✓Programming Language: Python
 
-Library: OpenCV (cv2)
+✓Library: OpenCV (cv2)
 
-Numerical Operations: NumPy
+✓Platform Support:
 
-Platform Support:
+✓Google Colab
 
-Google Colab
-
-Local PC (Windows / Linux)
+✓Local PC (Windows / Linux)
 
 Why OpenCV?
 
@@ -52,8 +51,9 @@ Industry-standard library
 
 Widely used in AI, robotics, and embedded vision systems
 
-▶️ How to Run the Project
-🔹 Option 1: Google Colab (Recommended)
+How to Run the Project
+
+Option 1: Google Colab (Recommended)
 
 Open Google Colab
 
@@ -68,7 +68,7 @@ Run the Python script
 
 Output images will be displayed using cv2_imshow()
 
-🔹 Option 2: Local System
+Option 2: Local System
 
 Install Python (3.8 or above)
 
@@ -86,14 +86,14 @@ python main.py
 
 Output windows will open for each transformation
 
-📂 Project Structure
+Project Structure
 Computer-Vision-Transformations/
-│
-├── image.jpg
-├── main.py
-└── README.md
 
-🚀 Applications
+ image.jpg
+ main.py
+ README.md
+
+Applications
 
 Image preprocessing for Machine Learning
 
@@ -107,7 +107,7 @@ Medical image analysis
 
 Augmented Reality (AR)
 
-🧠 Learning Outcome
+LEARNING OUTCOMES 
 
 After completing this project, users will:
 
@@ -118,6 +118,7 @@ Gain hands-on experience with OpenCV
 Be able to modify and apply transformations in real-world projects
 
 COMPUTER VISION IMAGE PYRAMID
+
 Observations
 Pyramid Level	Image Resolution	Detail Visibility	Computation
 Level 0	High	Fine details visible	High
