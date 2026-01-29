@@ -48,42 +48,30 @@ Why OpenCV?
 Fast and optimized image processing
 
 Industry-standard library
-
 Widely used in AI, robotics, and embedded vision systems
 
 How to Run the Project
 
 Option 1: Google Colab (Recommended)
-
 Open Google Colab
-
 Upload image.jpg into the Colab environment
 
 Install OpenCV:
 
 pip install opencv-python
-
-
 Run the Python script
-
 Output images will be displayed using cv2_imshow()
 
 Option 2: Local System
 
 Install Python (3.8 or above)
-
 Install required libraries:
-
 pip install opencv-python numpy
-
-
 Place image.jpg in the project folder
 
 Run the script:
 
 python main.py
-
-
 Output windows will open for each transformation
 
 Project Structure
@@ -95,17 +83,17 @@ Computer-Vision-Transformations/
 
 Applications
 
-Image preprocessing for Machine Learning
+✓Image preprocessing for Machine Learning
 
-Object detection and tracking
+✓Object detection and tracking
 
-Camera calibration
+✓Camera calibration
 
-Robotics and autonomous systems
+✓Robotics and autonomous systems
 
-Medical image analysis
+✓Medical image analysis
 
-Augmented Reality (AR)
+✓Augmented Reality (AR)
 
 LEARNING OUTCOMES 
 
