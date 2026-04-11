@@ -1,4 +1,4 @@
-Image Upload and Display using OpenCV:
+## Image Upload and Display using OpenCV:
   
   Description:
   
@@ -22,7 +22,7 @@ Image Upload and Display using OpenCV:
     Upload any image (e.g., sample.jpg) when prompted
     The uploaded image will be displayed
     
-CODE:
+# CODE:
   
 # Install OpenCV (run once)
 !pip install opencv-python
@@ -48,14 +48,14 @@ else:
     print("Image successfully loaded!")
     cv2_imshow(image)
     
-Input:
+# Input:
 
   User uploads an image file (e.g., JPG, PNG)
   
-Output:
+# Output:
 
   The uploaded image is displayed in the output cell
 
-Conclusion:
+# Conclusion:
 
   This experiment successfully demonstrates how to upload, read, and display an image using OpenCV in Google Colab.
